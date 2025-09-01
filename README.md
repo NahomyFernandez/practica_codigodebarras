@@ -1,0 +1,7 @@
+IMPLEMENTAR LA DETECCIÓN DE CÓDIGOS QR Y BARRAS CON GOOGLE ML KIT![WhatsApp Image 2025-09-01 at 17 27 33](https://github.com/user-attachments/assets/694e6b5e-36aa-47c7-aae9-dc3b0f8faf13)
+![WhatsApp Image 2025-09-01 at 17 27 33 (1)](https://github.com/user-attachments/assets/0c03dd3e-f778-4653-aff9-5c1d0adf31bd)
+![WhatsApp Image 2025-09-01 at 17 27 34](https://github.com/user-attachments/assets/d6bb941c-7ff9-47eb-a61b-b30475c464cc)
+![WhatsApp Image 2025-09-01 at 17 27 34 (1)](https://github.com/user-attachments/assets/79af2635-587c-4e1d-9103-9eae33ad9a1b)
+![WhatsApp Image 2025-09-01 at 17 27 34 (2)](https://github.com/user-attachments/assets/03adb97a-1511-426b-9668-f6833ce44137)
+![WhatsApp Image 2025-09-01 at 17 27 34 (3)](https://github.com/user-attachments/assets/3ae1694c-6a47-49c9-bed2-5d92715506c1)
+![WhatsApp Image 2025-09-01 at 17 27 35](https://github.com/user-attachments/assets/5960bc54-909a-4ae0-9595-a5f243f248fb)
